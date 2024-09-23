@@ -15,7 +15,7 @@ function App() {
   return (
     <>
       <NavBar logo="src/assets/logo.png" links={links}></NavBar>
-      <ItemListContainer titulo="Nuestros Productos"></ItemListContainer>
+      <ItemListContainer titulo="Nuestros proyectos"></ItemListContainer>
     </>
     
   )
